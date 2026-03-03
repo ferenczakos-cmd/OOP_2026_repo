@@ -27,6 +27,3 @@ public class BankAcount{
         return true;
     }
 }
-
-
-

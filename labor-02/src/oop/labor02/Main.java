@@ -2,7 +2,7 @@ package oop.labor02;
 import java.util.Random;
 public class Main{
     public static void main(String[] args){
-        
+        /* 
         BankAcount account1 = new BankAcount("OTP01",0);
         System.out.println(account1.getAccountNumber()+": "+account1.getBalance());
         account1.Deposit(1000);
@@ -15,7 +15,7 @@ public class Main{
         System.out.println(account2.getAccountNumber()+": "+account2.getBalance());
         account02.Deposit(2000);
         System.out.println(account2.getAccountNumber()+": "+account2.getBalance());
-        
+        */
         Random rand = new Random();
         Rectangle[] Rectangles = new Rectangle[10];
         for(int i=0;i<Rectangles.length;i++){
